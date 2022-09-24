@@ -1,0 +1,15 @@
+D:\Семинар 3_дз\задача23\obj\Debug\net6.0\задача23.csproj.AssemblyReference.cache
+D:\Семинар 3_дз\задача23\obj\Debug\net6.0\задача23.GeneratedMSBuildEditorConfig.editorconfig
+D:\Семинар 3_дз\задача23\obj\Debug\net6.0\задача23.AssemblyInfoInputs.cache
+D:\Семинар 3_дз\задача23\obj\Debug\net6.0\задача23.AssemblyInfo.cs
+D:\Семинар 3_дз\задача23\obj\Debug\net6.0\задача23.csproj.CoreCompileInputs.cache
+D:\Семинар 3_дз\задача23\bin\Debug\net6.0\задача23.exe
+D:\Семинар 3_дз\задача23\bin\Debug\net6.0\задача23.deps.json
+D:\Семинар 3_дз\задача23\bin\Debug\net6.0\задача23.runtimeconfig.json
+D:\Семинар 3_дз\задача23\bin\Debug\net6.0\задача23.dll
+D:\Семинар 3_дз\задача23\bin\Debug\net6.0\задача23.pdb
+D:\Семинар 3_дз\задача23\obj\Debug\net6.0\задача23.dll
+D:\Семинар 3_дз\задача23\obj\Debug\net6.0\refint\задача23.dll
+D:\Семинар 3_дз\задача23\obj\Debug\net6.0\задача23.pdb
+D:\Семинар 3_дз\задача23\obj\Debug\net6.0\задача23.genruntimeconfig.cache
+D:\Семинар 3_дз\задача23\obj\Debug\net6.0\ref\задача23.dll
