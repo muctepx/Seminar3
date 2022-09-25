@@ -32,6 +32,6 @@ int y2 = ReadData("Введите координату y второй точки
 int z2 = ReadData("Введите координату z второй точки: ");
 
 double result = FindLen(x1, y1, x2, y2, z1, z2);
-result = Math.Round(result, 5);   
+result = Math.Round(result, 2);   
 
 PrintData("Расcтояние между точками: ", result.ToString());
